@@ -10,3 +10,15 @@ repo/
 apk/
 gen
 generated-src/
+*.log
+.externalNativeBuild/
+.cxx/
+*.apk
+output.json
+misc.xml
+deploymentTargetDropDown.xml
+render.experimental.xml
+*.jks
+*.keystore
+google-services.json
+*.hprof
