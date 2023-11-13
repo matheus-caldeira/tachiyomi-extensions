@@ -287,7 +287,7 @@ class NeoxScanlator :
 
         private val TITLE_PATH_PLACEHOLDER = UUID.randomUUID().toString()
 
-        private const val EXT_REPO_JSON = "https://raw.githubusercontent.com/tachiyomiorg/tachiyomi-extensions/repo/index.json"
+        private const val EXT_REPO_JSON = "https://raw.githubusercontent.com/matheus-caldeira/tachiyomi-extensions/repo/index.json"
         private const val EXT_PKG = "eu.kanade.tachiyomi.extension.pt.neoxscanlator"
         private const val OBSOLETE_ERROR = "Extensão obsoleta. Migre para fontes melhores."
     }
