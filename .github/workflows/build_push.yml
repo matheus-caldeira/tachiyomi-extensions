@@ -163,7 +163,7 @@ jobs:
     name: Publish repo
     needs:
       - build_multisrc
-      - build_individual
+      # - build_individual
     if: "github.repository == 'matheus-caldeira/tachiyomi-extensions'"
     runs-on: ubuntu-latest
     steps:
